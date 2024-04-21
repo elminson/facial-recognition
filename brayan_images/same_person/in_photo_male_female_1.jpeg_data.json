@@ -1,0 +1,2467 @@
+stdClass Object
+(
+    [faceAnnotations] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [boundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 407
+                                            [y] => 568
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 556
+                                            [y] => 568
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 556
+                                            [y] => 741
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 407
+                                            [y] => 741
+                                        )
+
+                                )
+
+                        )
+
+                    [fdBoundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 418
+                                            [y] => 606
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 546
+                                            [y] => 606
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 546
+                                            [y] => 733
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 418
+                                            [y] => 733
+                                        )
+
+                                )
+
+                        )
+
+                    [landmarks] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 505.70975
+                                            [y] => 639.3244
+                                            [z] => -0.00042915344
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 513.76929
+                                            [y] => 638.69617
+                                            [z] => 43.919514
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 493.77872
+                                            [y] => 628.24652
+                                            [z] => -14.336433
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 514.35474
+                                            [y] => 621.94
+                                            [z] => 8.6086473
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 514.88092
+                                            [y] => 627.59662
+                                            [z] => 28.524265
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 525.62274
+                                            [y] => 622.49634
+                                            [z] => 63.367928
+                                        )
+
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => MIDPOINT_BETWEEN_EYES
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 517.16443
+                                            [y] => 632.1449
+                                            [z] => 18.329493
+                                        )
+
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => NOSE_TIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 535.80017
+                                            [y] => 661.47601
+                                            [z] => 12.088461
+                                        )
+
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [type] => UPPER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 524.49164
+                                            [y] => 684.00665
+                                            [z] => 15.148343
+                                        )
+
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [type] => LOWER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 521.31171
+                                            [y] => 696.91089
+                                            [z] => 15.881176
+                                        )
+
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [type] => MOUTH_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 512.49487
+                                            [y] => 690.82922
+                                            [z] => 2.8130064
+                                        )
+
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [type] => MOUTH_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 524.94373
+                                            [y] => 689.96881
+                                            [z] => 39.753426
+                                        )
+
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [type] => MOUTH_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 523.9895
+                                            [y] => 691.09186
+                                            [z] => 16.588846
+                                        )
+
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 528.64667
+                                            [y] => 666.8089
+                                            [z] => 32.506645
+                                        )
+
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 513.07953
+                                            [y] => 671.89154
+                                            [z] => 5.384964
+                                        )
+
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 523.17883
+                                            [y] => 673.63141
+                                            [z] => 15.362693
+                                        )
+
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 505.41953
+                                            [y] => 634.24414
+                                            [z] => -1.7509346
+                                        )
+
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 509.86707
+                                            [y] => 638.31787
+                                            [z] => 9.5411186
+                                        )
+
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 506.10989
+                                            [y] => 643.15503
+                                            [z] => -1.380209
+                                        )
+
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 496.94189
+                                            [y] => 640.81281
+                                            [z] => -8.5048103
+                                        )
+
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 512.73138
+                                            [y] => 634.09991
+                                            [z] => 43.418251
+                                        )
+
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 523.1803
+                                            [y] => 637.32996
+                                            [z] => 57.723228
+                                        )
+
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 513.83868
+                                            [y] => 643.53857
+                                            [z] => 43.994812
+                                        )
+
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 507.09082
+                                            [y] => 640.40088
+                                            [z] => 34.047672
+                                        )
+
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [type] => LEFT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 506.27454
+                                            [y] => 621.28931
+                                            [z] => -3.5327396
+                                        )
+
+                                )
+
+                            [25] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 517.5246
+                                            [y] => 621.5257
+                                            [z] => 44.551491
+                                        )
+
+                                )
+
+                            [26] => stdClass Object
+                                (
+                                    [type] => LEFT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 448.2186
+                                            [y] => 675.2486
+                                            [z] => -7.379652
+                                        )
+
+                                )
+
+                            [27] => stdClass Object
+                                (
+                                    [type] => RIGHT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 493.2121
+                                            [y] => 668.65692
+                                            [z] => 97.865509
+                                        )
+
+                                )
+
+                            [28] => stdClass Object
+                                (
+                                    [type] => FOREHEAD_GLABELLA
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 516.68213
+                                            [y] => 622.25403
+                                            [z] => 18.328484
+                                        )
+
+                                )
+
+                            [29] => stdClass Object
+                                (
+                                    [type] => CHIN_GNATHION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 519.34174
+                                            [y] => 719.39728
+                                            [z] => 18.20336
+                                        )
+
+                                )
+
+                            [30] => stdClass Object
+                                (
+                                    [type] => CHIN_LEFT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 466.04691
+                                            [y] => 708.48639
+                                            [z] => -6.1342602
+                                        )
+
+                                )
+
+                            [31] => stdClass Object
+                                (
+                                    [type] => CHIN_RIGHT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 504.84299
+                                            [y] => 704.91614
+                                            [z] => 77.371132
+                                        )
+
+                                )
+
+                            [32] => stdClass Object
+                                (
+                                    [type] => LEFT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 501.63306
+                                            [y] => 674.36865
+                                            [z] => -8.3150911
+                                        )
+
+                                )
+
+                            [33] => stdClass Object
+                                (
+                                    [type] => RIGHT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 526.35846
+                                            [y] => 671.32446
+                                            [z] => 55.749454
+                                        )
+
+                                )
+
+                        )
+
+                    [rollAngle] => -4.4788399
+                    [panAngle] => 67.060921
+                    [tiltAngle] => 1.58198
+                    [detectionConfidence] => 0.859375
+                    [landmarkingConfidence] => 0.019619355
+                    [joyLikelihood] => VERY_UNLIKELY
+                    [sorrowLikelihood] => VERY_UNLIKELY
+                    [angerLikelihood] => VERY_UNLIKELY
+                    [surpriseLikelihood] => VERY_UNLIKELY
+                    [underExposedLikelihood] => VERY_UNLIKELY
+                    [blurredLikelihood] => VERY_UNLIKELY
+                    [headwearLikelihood] => VERY_UNLIKELY
+                )
+
+            [1] => stdClass Object
+                (
+                    [boundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 1466
+                                            [y] => 557
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 1610
+                                            [y] => 557
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 1610
+                                            [y] => 724
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 1466
+                                            [y] => 724
+                                        )
+
+                                )
+
+                        )
+
+                    [fdBoundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 1479
+                                            [y] => 590
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 1596
+                                            [y] => 590
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 1596
+                                            [y] => 709
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 1479
+                                            [y] => 709
+                                        )
+
+                                )
+
+                        )
+
+                    [landmarks] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1540.955
+                                            [y] => 644.79645
+                                            [z] => -0.00028061867
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1574.1851
+                                            [y] => 642.62067
+                                            [z] => 20.593979
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1525.8665
+                                            [y] => 633.48151
+                                            [z] => -5.4677405
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1553.0342
+                                            [y] => 630.54382
+                                            [z] => -3.0827608
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1569.925
+                                            [y] => 628.38586
+                                            [z] => 7.0180521
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1585.9567
+                                            [y] => 630.45398
+                                            [z] => 30.412741
+                                        )
+
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => MIDPOINT_BETWEEN_EYES
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1560.8955
+                                            [y] => 640.97968
+                                            [z] => 2.3205478
+                                        )
+
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => NOSE_TIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1567.134
+                                            [y] => 668.46332
+                                            [z] => -5.8853059
+                                        )
+
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [type] => UPPER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1561.028
+                                            [y] => 684.66791
+                                            [z] => 4.07724
+                                        )
+
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [type] => LOWER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1560.3579
+                                            [y] => 696.33093
+                                            [z] => 8.0710335
+                                        )
+
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [type] => MOUTH_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1541.1389
+                                            [y] => 689.34131
+                                            [z] => 5.8578129
+                                        )
+
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [type] => MOUTH_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1569.8367
+                                            [y] => 684.60815
+                                            [z] => 23.500454
+                                        )
+
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [type] => MOUTH_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1560.6045
+                                            [y] => 689.65729
+                                            [z] => 7.571435
+                                        )
+
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1567.7969
+                                            [y] => 671.34357
+                                            [z] => 13.962986
+                                        )
+
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1548.1345
+                                            [y] => 671.72595
+                                            [z] => 2.1343074
+                                        )
+
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1560.9468
+                                            [y] => 675.31622
+                                            [z] => 2.9540355
+                                        )
+
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1541.6223
+                                            [y] => 640.48431
+                                            [z] => -2.9395673
+                                        )
+
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1547.2169
+                                            [y] => 645.12701
+                                            [z] => 4.1575437
+                                        )
+
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1540.9863
+                                            [y] => 648.61566
+                                            [z] => -0.39689088
+                                        )
+
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1532.0551
+                                            [y] => 643.56171
+                                            [z] => -1.0606873
+                                        )
+
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1575.5962
+                                            [y] => 638.97644
+                                            [z] => 18.287148
+                                        )
+
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1580.8881
+                                            [y] => 642.77222
+                                            [z] => 28.683672
+                                        )
+
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1574.6649
+                                            [y] => 645.82794
+                                            [z] => 20.88838
+                                        )
+
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1567.6548
+                                            [y] => 642.83252
+                                            [z] => 16.417631
+                                        )
+
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [type] => LEFT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1539.8477
+                                            [y] => 628.20099
+                                            [z] => -7.086586
+                                        )
+
+                                )
+
+                            [25] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1579.6412
+                                            [y] => 625.55481
+                                            [z] => 16.018595
+                                        )
+
+                                )
+
+                            [26] => stdClass Object
+                                (
+                                    [type] => LEFT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1486.3385
+                                            [y] => 650.55255
+                                            [z] => 33.543243
+                                        )
+
+                                )
+
+                            [27] => stdClass Object
+                                (
+                                    [type] => RIGHT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1578.2706
+                                            [y] => 650.49884
+                                            [z] => 82.261642
+                                        )
+
+                                )
+
+                            [28] => stdClass Object
+                                (
+                                    [type] => FOREHEAD_GLABELLA
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1561.1307
+                                            [y] => 631.26825
+                                            [z] => 0.56308007
+                                        )
+
+                                )
+
+                            [29] => stdClass Object
+                                (
+                                    [type] => CHIN_GNATHION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1557.3783
+                                            [y] => 717.01343
+                                            [z] => 15.584661
+                                        )
+
+                                )
+
+                            [30] => stdClass Object
+                                (
+                                    [type] => CHIN_LEFT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1503.1342
+                                            [y] => 692.99567
+                                            [z] => 26.418167
+                                        )
+
+                                )
+
+                            [31] => stdClass Object
+                                (
+                                    [type] => CHIN_RIGHT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1574.5216
+                                            [y] => 686.54791
+                                            [z] => 66.213577
+                                        )
+
+                                )
+
+                            [32] => stdClass Object
+                                (
+                                    [type] => LEFT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1531.8087
+                                            [y] => 672.15704
+                                            [z] => 2.2520044
+                                        )
+
+                                )
+
+                            [33] => stdClass Object
+                                (
+                                    [type] => RIGHT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1579.4847
+                                            [y] => 670.10565
+                                            [z] => 31.340279
+                                        )
+
+                                )
+
+                        )
+
+                    [rollAngle] => 1.6206107
+                    [panAngle] => 29.293644
+                    [tiltAngle] => -6.5130167
+                    [detectionConfidence] => 0.796875
+                    [landmarkingConfidence] => 0.40087384
+                    [joyLikelihood] => VERY_UNLIKELY
+                    [sorrowLikelihood] => VERY_UNLIKELY
+                    [angerLikelihood] => VERY_UNLIKELY
+                    [surpriseLikelihood] => VERY_UNLIKELY
+                    [underExposedLikelihood] => VERY_UNLIKELY
+                    [blurredLikelihood] => VERY_UNLIKELY
+                    [headwearLikelihood] => VERY_UNLIKELY
+                )
+
+            [2] => stdClass Object
+                (
+                    [boundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 863
+                                            [y] => 576
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 961
+                                            [y] => 576
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 961
+                                            [y] => 689
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 863
+                                            [y] => 689
+                                        )
+
+                                )
+
+                        )
+
+                    [fdBoundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 873
+                                            [y] => 602
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 947
+                                            [y] => 602
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 947
+                                            [y] => 675
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 873
+                                            [y] => 675
+                                        )
+
+                                )
+
+                        )
+
+                    [landmarks] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 885.86066
+                                            [y] => 631.12061
+                                            [z] => -5.7727098E-5
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 906.15002
+                                            [y] => 628.31952
+                                            [z] => -18.685768
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 875.54413
+                                            [y] => 626.16943
+                                            [z] => 9.7758236
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 886.89246
+                                            [y] => 623.24384
+                                            [z] => -8.3289738
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 897.37225
+                                            [y] => 621.49615
+                                            [z] => -17.408632
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 915.32001
+                                            [y] => 621.01886
+                                            [z] => -22.748425
+                                        )
+
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => MIDPOINT_BETWEEN_EYES
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 893.27496
+                                            [y] => 628.28229
+                                            [z] => -14.030921
+                                        )
+
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => NOSE_TIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 887.18616
+                                            [y] => 645.1712
+                                            [z] => -22.339569
+                                        )
+
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [type] => UPPER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 890.96179
+                                            [y] => 657.04053
+                                            [z] => -18.443491
+                                        )
+
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [type] => LOWER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 893.59125
+                                            [y] => 668.5874
+                                            [z] => -18.171083
+                                        )
+
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [type] => MOUTH_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 886.30414
+                                            [y] => 663.15417
+                                            [z] => -4.775723
+                                        )
+
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [type] => MOUTH_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 905.22565
+                                            [y] => 661.74042
+                                            [z] => -20.702812
+                                        )
+
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [type] => MOUTH_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 893.68726
+                                            [y] => 661.85529
+                                            [z] => -17.441629
+                                        )
+
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 900.03137
+                                            [y] => 647.71686
+                                            [z] => -19.653378
+                                        )
+
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 885.46777
+                                            [y] => 648.67181
+                                            [z] => -8.532074
+                                        )
+
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 890.68152
+                                            [y] => 650.29285
+                                            [z] => -17.765614
+                                        )
+
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 884.37567
+                                            [y] => 628.66815
+                                            [z] => -0.75290972
+                                        )
+
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 890.3504
+                                            [y] => 630.20081
+                                            [z] => -3.9304066
+                                        )
+
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 885.59033
+                                            [y] => 633.40466
+                                            [z] => -0.21800724
+                                        )
+
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 882.01672
+                                            [y] => 632.02802
+                                            [z] => 6.3134613
+                                        )
+
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 906.23938
+                                            [y] => 625.54358
+                                            [z] => -20.136213
+                                        )
+
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 912.00238
+                                            [y] => 628.26807
+                                            [z] => -20.652506
+                                        )
+
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 906.39075
+                                            [y] => 630.60895
+                                            [z] => -19.515781
+                                        )
+
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 901.58844
+                                            [y] => 628.30914
+                                            [z] => -14.777497
+                                        )
+
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [type] => LEFT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 880.8689
+                                            [y] => 622.18927
+                                            [z] => -0.37989548
+                                        )
+
+                                )
+
+                            [25] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 905.67523
+                                            [y] => 618.40155
+                                            [z] => -21.233406
+                                        )
+
+                                )
+
+                            [26] => stdClass Object
+                                (
+                                    [type] => LEFT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 894.33112
+                                            [y] => 644.71246
+                                            [z] => 39.49963
+                                        )
+
+                                )
+
+                            [27] => stdClass Object
+                                (
+                                    [type] => RIGHT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 943.01337
+                                            [y] => 636.63489
+                                            [z] => -3.7990711
+                                        )
+
+                                )
+
+                            [28] => stdClass Object
+                                (
+                                    [type] => FOREHEAD_GLABELLA
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 892.33044
+                                            [y] => 621.60748
+                                            [z] => -13.670316
+                                        )
+
+                                )
+
+                            [29] => stdClass Object
+                                (
+                                    [type] => CHIN_GNATHION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 897.89355
+                                            [y] => 681.95569
+                                            [z] => -16.539221
+                                        )
+
+                                )
+
+                            [30] => stdClass Object
+                                (
+                                    [type] => CHIN_LEFT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 888.53345
+                                            [y] => 669.46722
+                                            [z] => 23.080053
+                                        )
+
+                                )
+
+                            [31] => stdClass Object
+                                (
+                                    [type] => CHIN_RIGHT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 934.68243
+                                            [y] => 663.73041
+                                            [z] => -12.551052
+                                        )
+
+                                )
+
+                            [32] => stdClass Object
+                                (
+                                    [type] => LEFT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 882.30078
+                                            [y] => 651.81207
+                                            [z] => 3.9979348
+                                        )
+
+                                )
+
+                            [33] => stdClass Object
+                                (
+                                    [type] => RIGHT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 911.96576
+                                            [y] => 648.38013
+                                            [z] => -22.352974
+                                        )
+
+                                )
+
+                        )
+
+                    [rollAngle] => -2.4434454
+                    [panAngle] => -39.750668
+                    [tiltAngle] => 5.5356398
+                    [detectionConfidence] => 0.8828125
+                    [landmarkingConfidence] => 0.43034533
+                    [joyLikelihood] => VERY_UNLIKELY
+                    [sorrowLikelihood] => VERY_UNLIKELY
+                    [angerLikelihood] => VERY_UNLIKELY
+                    [surpriseLikelihood] => VERY_UNLIKELY
+                    [underExposedLikelihood] => VERY_UNLIKELY
+                    [blurredLikelihood] => VERY_UNLIKELY
+                    [headwearLikelihood] => VERY_UNLIKELY
+                )
+
+            [3] => stdClass Object
+                (
+                    [boundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 535
+                                            [y] => 505
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 833
+                                            [y] => 505
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 833
+                                            [y] => 851
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 535
+                                            [y] => 851
+                                        )
+
+                                )
+
+                        )
+
+                    [fdBoundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 559
+                                            [y] => 576
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 796
+                                            [y] => 576
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 796
+                                            [y] => 813
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 559
+                                            [y] => 813
+                                        )
+
+                                )
+
+                        )
+
+                    [landmarks] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 724.73645
+                                            [y] => 669.36023
+                                            [z] => 0.00035095215
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 770.05414
+                                            [y] => 672.30371
+                                            [z] => 70.078186
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 699.46216
+                                            [y] => 645.92444
+                                            [z] => -19.900146
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 751.18707
+                                            [y] => 644.23578
+                                            [z] => 9.2787142
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 774.00543
+                                            [y] => 647.22479
+                                            [z] => 43.195793
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 789.78967
+                                            [y] => 646.55127
+                                            [z] => 101.87706
+                                        )
+
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => MIDPOINT_BETWEEN_EYES
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 759.79138
+                                            [y] => 667.92267
+                                            [z] => 23.836632
+                                        )
+
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => NOSE_TIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 776.71558
+                                            [y] => 719.09351
+                                            [z] => 6.3628578
+                                        )
+
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [type] => UPPER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 761.46844
+                                            [y] => 754.53925
+                                            [z] => 17.127029
+                                        )
+
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [type] => LOWER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 759.60504
+                                            [y] => 783.45874
+                                            [z] => 20.246696
+                                        )
+
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [type] => MOUTH_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 723.51727
+                                            [y] => 765.24475
+                                            [z] => 1.9513712
+                                        )
+
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [type] => MOUTH_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 765.89685
+                                            [y] => 766.15076
+                                            [z] => 61.103008
+                                        )
+
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [type] => MOUTH_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 759.26056
+                                            [y] => 766.99902
+                                            [z] => 21.07246
+                                        )
+
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 768.64252
+                                            [y] => 727.93518
+                                            [z] => 46.125153
+                                        )
+
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 737.46033
+                                            [y] => 727.76978
+                                            [z] => 5.4702873
+                                        )
+
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 761.91248
+                                            [y] => 734.87976
+                                            [z] => 17.574543
+                                        )
+
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 726.99896
+                                            [y] => 662.31256
+                                            [z] => -4.020298
+                                        )
+
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 733.33984
+                                            [y] => 671.17914
+                                            [z] => 14.104864
+                                        )
+
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 724.41492
+                                            [y] => 676.40997
+                                            [z] => -2.1311417
+                                        )
+
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 706.99036
+                                            [y] => 667.87482
+                                            [z] => -10.716722
+                                        )
+
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 774.49738
+                                            [y] => 665.37512
+                                            [z] => 68.207939
+                                        )
+
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 777.63019
+                                            [y] => 673.44373
+                                            [z] => 90.947655
+                                        )
+
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 771.51465
+                                            [y] => 678.95758
+                                            [z] => 70.317848
+                                        )
+
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 760.05316
+                                            [y] => 673.17609
+                                            [z] => 55.470856
+                                        )
+
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [type] => LEFT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 728.13568
+                                            [y] => 637.05469
+                                            [z] => -8.6151428
+                                        )
+
+                                )
+
+                            [25] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 784.17072
+                                            [y] => 640.10876
+                                            [z] => 69.322113
+                                        )
+
+                                )
+
+                            [26] => stdClass Object
+                                (
+                                    [type] => LEFT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 592.6015
+                                            [y] => 690.39648
+                                            [z] => 18.271217
+                                        )
+
+                                )
+
+                            [27] => stdClass Object
+                                (
+                                    [type] => RIGHT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 730.07391
+                                            [y] => 713.87915
+                                            [z] => 181.71461
+                                        )
+
+                                )
+
+                            [28] => stdClass Object
+                                (
+                                    [type] => FOREHEAD_GLABELLA
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 762.88837
+                                            [y] => 648.60767
+                                            [z] => 23.70491
+                                        )
+
+                                )
+
+                            [29] => stdClass Object
+                                (
+                                    [type] => CHIN_GNATHION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 746.57544
+                                            [y] => 820.83832
+                                            [z] => 26.352573
+                                        )
+
+                                )
+
+                            [30] => stdClass Object
+                                (
+                                    [type] => CHIN_LEFT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 633.05872
+                                            [y] => 772.58289
+                                            [z] => 8.4377499
+                                        )
+
+                                )
+
+                            [31] => stdClass Object
+                                (
+                                    [type] => CHIN_RIGHT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 739.26166
+                                            [y] => 783.3667
+                                            [z] => 141.20126
+                                        )
+
+                                )
+
+                            [32] => stdClass Object
+                                (
+                                    [type] => LEFT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 706.50885
+                                            [y] => 726.80383
+                                            [z] => -11.20088
+                                        )
+
+                                )
+
+                            [33] => stdClass Object
+                                (
+                                    [type] => RIGHT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 775.73511
+                                            [y] => 731.53094
+                                            [z] => 87.876106
+                                        )
+
+                                )
+
+                        )
+
+                    [rollAngle] => 2.5509095
+                    [panAngle] => 52.771351
+                    [tiltAngle] => 1.5691013
+                    [detectionConfidence] => 0.9921875
+                    [landmarkingConfidence] => 0.43194625
+                    [joyLikelihood] => VERY_UNLIKELY
+                    [sorrowLikelihood] => VERY_UNLIKELY
+                    [angerLikelihood] => VERY_UNLIKELY
+                    [surpriseLikelihood] => VERY_UNLIKELY
+                    [underExposedLikelihood] => VERY_UNLIKELY
+                    [blurredLikelihood] => VERY_UNLIKELY
+                    [headwearLikelihood] => VERY_UNLIKELY
+                )
+
+            [4] => stdClass Object
+                (
+                    [boundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 1223
+                                            [y] => 620
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 1478
+                                            [y] => 620
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 1478
+                                            [y] => 916
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 1223
+                                            [y] => 916
+                                        )
+
+                                )
+
+                        )
+
+                    [fdBoundingPoly] => stdClass Object
+                        (
+                            [vertices] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [x] => 1248
+                                            [y] => 693
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [x] => 1442
+                                            [y] => 693
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [x] => 1442
+                                            [y] => 887
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [x] => 1248
+                                            [y] => 887
+                                        )
+
+                                )
+
+                        )
+
+                    [landmarks] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1344.4609
+                                            [y] => 762.79285
+                                            [z] => -0.0012741089
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1405.7372
+                                            [y] => 761.88641
+                                            [z] => 36.119125
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1317.7179
+                                            [y] => 744.33234
+                                            [z] => -6.158308
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_LEFT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1364.6674
+                                            [y] => 736.87158
+                                            [z] => -2.5066605
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => LEFT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1398.6677
+                                            [y] => 737.05048
+                                            [z] => 15.673417
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => RIGHT_OF_RIGHT_EYEBROW
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1428.2395
+                                            [y] => 738.43665
+                                            [z] => 56.955143
+                                        )
+
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => MIDPOINT_BETWEEN_EYES
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1381.0597
+                                            [y] => 757.02625
+                                            [z] => 4.2030644
+                                        )
+
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => NOSE_TIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1397.8994
+                                            [y] => 802.03125
+                                            [z] => -17.470299
+                                        )
+
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [type] => UPPER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1389.6019
+                                            [y] => 830.2345
+                                            [z] => -3.4916067
+                                        )
+
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [type] => LOWER_LIP
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1387.0533
+                                            [y] => 861.79761
+                                            [z] => -0.35247231
+                                        )
+
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [type] => MOUTH_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1353.5913
+                                            [y] => 843.50739
+                                            [z] => -1.2195654
+                                        )
+
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [type] => MOUTH_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1404.0011
+                                            [y] => 837.98846
+                                            [z] => 29.441517
+                                        )
+
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [type] => MOUTH_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1388.1633
+                                            [y] => 843.27112
+                                            [z] => 1.0008702
+                                        )
+
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_RIGHT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1401.8726
+                                            [y] => 809.9906
+                                            [z] => 17.517902
+                                        )
+
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_LEFT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1365.261
+                                            [y] => 810.29089
+                                            [z] => -3.0418072
+                                        )
+
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [type] => NOSE_BOTTOM_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1389.0802
+                                            [y] => 815.39227
+                                            [z] => -3.0761795
+                                        )
+
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1342.8925
+                                            [y] => 755.69867
+                                            [z] => -4.4864674
+                                        )
+
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1358.6354
+                                            [y] => 761.32544
+                                            [z] => 7.6696491
+                                        )
+
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1344.0707
+                                            [y] => 767.78796
+                                            [z] => -1.550168
+                                        )
+
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [type] => LEFT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1327.3984
+                                            [y] => 764.9093
+                                            [z] => -1.830492
+                                        )
+
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_TOP_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1408.9753
+                                            [y] => 754.28125
+                                            [z] => 33.147442
+                                        )
+
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_RIGHT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1416.9292
+                                            [y] => 762.22723
+                                            [z] => 50.357792
+                                        )
+
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_BOTTOM_BOUNDARY
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1408.1149
+                                            [y] => 767.53705
+                                            [z] => 35.931541
+                                        )
+
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYE_LEFT_CORNER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1392.4731
+                                            [y] => 762.78522
+                                            [z] => 28.484177
+                                        )
+
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [type] => LEFT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1340.6354
+                                            [y] => 733.59363
+                                            [z] => -8.4877071
+                                        )
+
+                                )
+
+                            [25] => stdClass Object
+                                (
+                                    [type] => RIGHT_EYEBROW_UPPER_MIDPOINT
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1415.3306
+                                            [y] => 730.92786
+                                            [z] => 32.365051
+                                        )
+
+                                )
+
+                            [26] => stdClass Object
+                                (
+                                    [type] => LEFT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1259.816
+                                            [y] => 798.14227
+                                            [z] => 59.148373
+                                        )
+
+                                )
+
+                            [27] => stdClass Object
+                                (
+                                    [type] => RIGHT_EAR_TRAGION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1424.4485
+                                            [y] => 779.97888
+                                            [z] => 145.15817
+                                        )
+
+                                )
+
+                            [28] => stdClass Object
+                                (
+                                    [type] => FOREHEAD_GLABELLA
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1380.7207
+                                            [y] => 738.71179
+                                            [z] => 3.7713709
+                                        )
+
+                                )
+
+                            [29] => stdClass Object
+                                (
+                                    [type] => CHIN_GNATHION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1379.797
+                                            [y] => 894.73083
+                                            [z] => 7.5458689
+                                        )
+
+                                )
+
+                            [30] => stdClass Object
+                                (
+                                    [type] => CHIN_LEFT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1285.9613
+                                            [y] => 864.52063
+                                            [z] => 35.406567
+                                        )
+
+                                )
+
+                            [31] => stdClass Object
+                                (
+                                    [type] => CHIN_RIGHT_GONION
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1414.0425
+                                            [y] => 845.80035
+                                            [z] => 105.81844
+                                        )
+
+                                )
+
+                            [32] => stdClass Object
+                                (
+                                    [type] => LEFT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1332.0206
+                                            [y] => 815.15045
+                                            [z] => -3.2112265
+                                        )
+
+                                )
+
+                            [33] => stdClass Object
+                                (
+                                    [type] => RIGHT_CHEEK_CENTER
+                                    [position] => stdClass Object
+                                        (
+                                            [x] => 1418.7684
+                                            [y] => 811.34918
+                                            [z] => 47.737724
+                                        )
+
+                                )
+
+                        )
+
+                    [rollAngle] => -2.5879822
+                    [panAngle] => 28.255943
+                    [tiltAngle] => 1.907464
+                    [detectionConfidence] => 0.94921875
+                    [landmarkingConfidence] => 0.33375219
+                    [joyLikelihood] => UNLIKELY
+                    [sorrowLikelihood] => VERY_UNLIKELY
+                    [angerLikelihood] => VERY_UNLIKELY
+                    [surpriseLikelihood] => VERY_UNLIKELY
+                    [underExposedLikelihood] => VERY_UNLIKELY
+                    [blurredLikelihood] => VERY_UNLIKELY
+                    [headwearLikelihood] => VERY_UNLIKELY
+                )
+
+        )
+
+)

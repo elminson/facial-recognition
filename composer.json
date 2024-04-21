@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud-vision": "^1.6",
+        "aws/aws-sdk-php": "^3.304",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
