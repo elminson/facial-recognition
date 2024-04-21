@@ -1,0 +1,2 @@
+google vision
+aws rekognition
